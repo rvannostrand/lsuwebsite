@@ -1,0 +1,86 @@
+/* css styles */
+
+/* Make the headshot circular and nicely sized */
+img.rounded-circle {
+  border-radius: 50%;
+  max-width: 220px;
+}
+
+/* Keep main content a bit narrower on large screens */
+main.content {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* Slightly smaller footer text */
+.footer {
+  font-size: 0.85rem;
+}
+
+/* Publication cards */
+
+.pub-card {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.5rem;
+  border-radius: 0.75rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  background-color: #ffffff;
+}
+
+.pub-logo {
+  width: 80px;
+  max-width: 80px;
+  height: auto;
+  flex-shrink: 0;
+}
+
+.pub-meta h3 {
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+  font-size: 1.1rem;
+}
+
+.pub-meta p {
+  margin: 0.15rem 0;
+}
+
+/* Optional: style the links a bit like buttons */
+.pub-links a {
+  text-decoration: none;
+  font-size: 0.9rem;
+  margin-right: 0.75rem;
+}
+
+.pub-links a::before {
+  content: "↗ ";
+  font-size: 0.8rem;
+}
+
+/* Make the content column narrow and centered, like a personal homepage */
+main.content {
+  max-width: 720px;
+  margin: 0 auto;
+  padding-top: 1.5rem;
+  padding-bottom: 2.5rem;
+}
+
+/* Center the page title (your name) */
+.quarto-title-block .title {
+  text-align: center;
+  margin-bottom: 1.25rem;
+}
+
+/* Slightly tone down the navbar so it looks very minimal */
+.navbar {
+  box-shadow: none;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+/* Optional: make body text a bit more “reading friendly” */
+body {
+  line-height: 1.6;
+  font-size: 1rem;
+}

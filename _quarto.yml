@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Rachel D. Van Nostrand"
+  navbar:
+    background: light
+    title: "Rachel D. Van Nostrand"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: lab.qmd
+        text: Research Lab
+page-footer:
+    left: |
+      © `r format(Sys.Date(), "%Y")` Rachel Van Nostrand  
+      Opinions are my own and do not represent my employer.
+    right: |
+      Made with [Quarto](https://quarto.org) & [GitHub Pages](https://pages.github.com)
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: article
+
+editor: visual
+

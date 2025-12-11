@@ -1,0 +1,45 @@
+---
+title: "Research"
+---
+
+My research focuses on state repression, concentration camps, and systems of mass detention. Below are selected publications and projects. Each entry links to the published version and (where possible) an open preprint.
+
+## Peer-Reviewed Articles
+
+**Race, railways, and the long-term legacy effects of concentration camps: Evidence from South Africa**
+
+with Alex Braithwaite. **Journal of Ethnic and Migration Studies**. Forthcoming
+
+Drawing upon detailed data on more than 120 concentration camps employed by the British in southern Africa during the Second Boer War (1899–1902), we examine the long-term legacies of these camps on trust and mobilization in modern-day South Africa. Using geocoded Afrobarometer survey data, we assess whether contemporary attitudes vary relative to individual respondents' proximity to historical British concentration camps. We distinguish between camps where the British detained white Boer/Afrikaner populations, Black African populations, or both, to trace motivations for modern attitudes across race and ethnic dimensions. To account for the non-random placement of camps along newly built and developing colonial railway lines, we compare locations that historically housed camps with those along the railway that did not. We find evidence that in areas which previously hosted camps, populations remain subject to heightened in-group/out-group dynamics and are more distrustful of one another. Additionally, residents in these areas are more likely to participate in political activities benefiting the in-group. This work contributes to a growing literature on the long-term effects of state repression on social and political dynamics.
+
+[**Introducing the Concentration Camps (CCamps v1.0) dataset**](https://academic.oup.com/jpr/article/62/4/1328/8324579)
+
+
+with Alex Braithwaite and Daniel Solomon. **Journal of Peace Research**. 2025.
+
+Although the Nazi Holocaust provides the most expansive and resonant example of concentration camps in popular commentary and social science research, recent revelations regarding the detention and abuse of Uyghurs in camps in Xinjiang, China, as well as Ukrainian citizens in Russian-occupied Eastern Ukraine, reflect the persistence of this technology of mass violence. To gauge how common the use of this technology has been and to facilitate research into its comparative contexts, we introduce the Concentration Camps (CCamps) dataset. We first conceptualize concentration camp systems as bounded, irregular spaces housing targeted, resident civilian populations, whom camp administrators
+purposefully neglect, often force into labor, and sometimes kill en masse. Based upon this conceptualization, we describe the CCamps dataset, which surveys 150 camp systems administered globally between 1896 and 2018. Finally, we discuss some potential applications for this dataset in the literatures on conflict, peace, and repression.
+
+
+[**Wielding the gavel or balancing the scales? Domestic legal systems and post-conflict justice
+**](https://journals.sagepub.com/doi/abs/10.1177/00220027221110581)
+
+with Joseph Cox. **Journal of Conflict Resolution**. 2023.
+
+This study analyzes the institutional variation across domestic legal systems, with a focus on common law system’s adherence to precedent and reduced recourse to judicial deference, as well as on the degree of independence afforded to courts. These institutional qualities of judiciaries provide the opportunity for courts to play a more active role in the implementation of post-conflict justice, increasing uncertainty for other policymakers concerning the ultimate contours of post-conflict justice processes. To reduce such uncertainty, policymakers ensconced in these types of institutional contexts will be less likely to implement post-conflict justice. Using data from the Post-Conflict Justice dataset, we find that states with common law systems are less likely to pursue and implement post-conflict justice compared to states with civil or Islamic law systems. Moreover, independent courts will be less likely to pursue mixed or restorative forms post-conflict justice, though the impact of judicial independence is weak overall.
+
+
+
+## Working Papers
+
+**Courts and Concentration Camps: Judicial Constraints on the Use of Repression
+**
+
+States that face institutional constraints, such as independent courts or constitutional protections, are often limited in their ability to deploy large-scale repression. This paper explores how states circumvent these constraints to implement irregular forms of repression, focusing on concentration camps as a case. I propose a typology of institutional workarounds that states use to legalize or obscure repression: (1) preventive legalism, in which states use emergency powers or legal exceptions to justify detention; (2) institutional degradation, where states actively weaken judicial oversight; and (3) forum shifting, in which repression is moved to legal gray zones or alternative jurisdictions. I argue that the choice of workaround strategy is moderated by the presence, and type, of institutional constraint. Using cross-national data back to 1900, I examine how these mechanisms enable the use of concentration camps across institutional environments. Findings suggest that judiciaries have the strongest influence on shaping decisions to engage in concentration, as well as the workaround strategies which are adopted.
+
+**Camps or “Centers”? Public Responses to Framing and Labeling of Concentration
+**
+
+with Pearce Edwards. 
+
+How do governments legitimate mass detention without due process for foreign publics? We argue that leaders use legality framing and euphemistic labeling as tools of information politics to mitigate backlash to concentration camps. Building on theories of repression, naming and shaming, and preventive legalism, we test the effects of these rhetorical devices using vignette-based survey experiments in the United States, Argentina, and China. In the two democracies, legality framing increases perceptions of camps as justified and lawful, raising support for the perpetrating government. Surprisingly, labeling has no effect on these attitudes. In China, neither framing nor labeling alters attitudes. Our findings make three contributions. First, they demonstrate that legality framing can blunt backlash among democratic publics. Second, they reveal the limits of framing in authoritarian contexts, identifying important boundary conditions for repression’s legitimation. Third, they explore how governments strategically deploy language to cloak coercion. 

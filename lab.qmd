@@ -1,0 +1,26 @@
+---
+title: "CCamp Lab"
+---
+
+# Research Lab
+
+I direct a research lab focused on the politics of state repression, concentration camps, and systems of mass detention.\
+We work with quantitative and qualitative data, geospatial analysis, and archival materials.
+
+## Opportunities for students
+
+I frequently work with undergraduate and graduate research assistants on:
+
+-   Data collection and coding
+-   Archival and document research
+-   R-based data analysis and visualization
+-   Writing and revising manuscripts and policy-oriented pieces
+
+If you are an LSU student interested in working with the lab, please fill out the form below.\
+I will review submissions periodically and contact students as opportunities become available.
+
+## Interest form
+
+<!-- Option A: Embedded Google / Qualtrics form -->
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdkmBzlTTyK5rCN2aKF76q3P7jTg1x3eo9Mi2A10t_BMXcR1g/viewform?embedded=true" width="640" height="1135" frameborder="0" marginheight="0" marginwidth="0">
