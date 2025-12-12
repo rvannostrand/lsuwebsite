@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Rachel D. Van Nostrand"
+  favicon: files/favicon.png
   navbar:
     background: light
     left:
