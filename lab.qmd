@@ -1,11 +1,7 @@
----
-title: "CCamp Lab"
----
 
 # Research Lab
 
-I direct a research lab focused on the politics of state repression, concentration camps, and systems of mass detention.\
-We work with quantitative and qualitative data, geospatial analysis, and archival materials.
+I direct a research lab focused on the politics of state repression, concentration camps, and systems of mass detention. We work with quantitative and qualitative data, geospatial analysis, and archival materials.
 
 ## Opportunities for students
 

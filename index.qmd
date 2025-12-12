@@ -1,16 +1,20 @@
----
-title: "Rachel D. Van Nostrand"
----
+
+::: {.columns}
+::: {.column width="70%"}
 
 Welcome! I'm Rachel Van Nostrand, an Assistant Professor of International Relations in the Department of Political Science at Louisiana State University. My research primarily focuses on mass detention, concentration camps, and state repression. \
 
-I received my PhD in Government and Public Policy from the University of Arizona. My research interests lie at the intersection of human rights, repression, post-conflict environments, and geographies of violence. My research has been supported by the National Science Foundation. In my free time, I enjoy practicing bass guitar, hiking, and rock climbing.
+I received my PhD in Government and Public Policy from the University of Arizona. My research interests lie at the intersection of human rights, repression, post-conflict environments, and geographies of violence. My research has been supported by the National Science Foundation. In my free time, I enjoy practicing bass guitar, rock climbing.
 
--   [Download my CV](/Users/Rachel/Library/Mobile Documents/com~apple~CloudDocs/Documents/Website/lsuwebsite/cv.pdf)
+[Download my CV](files/cv.pdf){.btn .btn-primary target="_blank"}
 
--   [Google Scholar](https://scholar.google.com/citations?user=E-RCxQsAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=E-RCxQsAAAAJ&hl=en)
 
--   [Twitter](https://x.com/rdvannostrand)
+[Twitter](https://x.com/rdvannostrand)
 
-```         
-```
+:::
+
+::: {.column width="30%"}
+![](files/headshot.jpg){.img-fluid .rounded-circle style="max-width:200px"}
+:::
+:::
