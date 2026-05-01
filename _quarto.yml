@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Rachel D. Van Nostrand"
+  site-url: https://rdvannostrand.com
   favicon: files/favicon.png
   navbar:
     background: light
@@ -25,6 +26,7 @@ page-footer:
 
 format:
   html:
+    canonical-url: https://rdvannostrand.com
     theme: cosmo
     css: styles.css
     toc: false
